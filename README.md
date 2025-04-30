@@ -21,12 +21,27 @@ This project explores a dataset from **Farm Insurance Co**, aiming to understand
 - Python, Pandas, NumPy
 - Seaborn & Matplotlib for visualization
 - Jupyter Notebook
+## 💡 Key Insights: 
 
-## 💡 Key Insight
+### 🔺 Strongest Positive Correlations
+- **Smoker (0.79)** → The highest correlation; being a smoker has the strongest impact on increasing medical insurance charges.
+- **Age (0.30)** → Older individuals tend to have higher insurance costs.
+- **Senior (0.20)**, **BMI (0.20)**, and **BMI_Overweight (0.20)** → Older age and higher BMI are strongly associated with increased charges.
 
-> Smoking status has the strongest positive correlation with medical insurance charges, followed by age and BMI.
+### 🟠 Moderate Positive Correlations
+- **Mature Age Adult (0.14)** → Middle-aged adults have moderately higher costs.
+- **Southeast (0.07)** and **Gender (0.06)** → Minor positive impact on insurance charges.
+
+### ⚪ Near Zero Correlations
+- **Northeast (0.01)**, **Northwest (-0.04)**, **Southwest (-0.04)** → Regional impact is negligible.
+- **BMI_Underweight (-0.04)** → Minimal impact on charges.
+
+### 🔻 Negative Correlations (Lower Charges)
+- **BMI_Healthy (-0.11)** and **Adult (-0.11)** → Healthy BMI and general adult population tend to have lower insurance costs.
+- **BMI_Slightly_Overweight (-0.12)** → Lower charges than overweight individuals.
+- **Young Adult (-0.19)** → Young adults have significantly lower costs, likely due to lower health risk.
 
 ---
 
-👩‍💻 Created by [Your Name] | 📫 [Your LinkedIn or Email]  
+👩‍💻 Created by [Dana Abdirakhym] | 📫 [abdirakhymd@gmail.com]  
 
