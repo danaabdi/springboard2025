@@ -1,4 +1,4 @@
-# springboard2025
+
 # 🏥 Farm Insurance Co — Medical Insurance Cost Analysis
 
 This project explores a dataset from **Farm Insurance Co**, aiming to understand the key drivers behind medical insurance charges across demographic groups.
